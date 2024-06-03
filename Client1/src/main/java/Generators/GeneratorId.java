@@ -14,7 +14,6 @@ public class GeneratorId {
      * метод генерирует уникальный id
      * @return id
      */
-    // переделать генерацию ключей
     public int generate() {
             int maxint = 1000000;
             int minint = 1000;
