@@ -34,7 +34,6 @@ public class UpdateId extends Command {
     /**
      * Обновляет элемент, у которого id равен заданному
      */
-    // вроде как реализовал
     @Override
     public Response execute(Request request){
         boolean statusCommand;
