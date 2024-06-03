@@ -15,8 +15,6 @@ import City.*;
 import Exceptions.NotExistUser;
 import Network.User;
 
-// Этот класс в основном для авторизации/регистрации пользователей.
-// А также для парсинга коллекции и сразу же сохранения коллекции в базу
 public class DBManager {
     private Connection conn; //
     private MessageDigest md;
