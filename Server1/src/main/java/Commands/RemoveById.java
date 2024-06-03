@@ -32,7 +32,7 @@ public class RemoveById extends Command{
     /**
      * Удаляет элемент из коллекции по id
      */
-    // реализовать данную команду
+
     @Override
     public Response execute(Request request){
         boolean statusCommand;
