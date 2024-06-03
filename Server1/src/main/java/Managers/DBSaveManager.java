@@ -12,7 +12,6 @@ import java.util.concurrent.CopyOnWriteArrayList;
  * Менеджер сохранения коллекции в файл
  * @author Timur
  */
-// для 7 лабы этот класс точно не пригодится
 public class DBSaveManager {
     private final CollectionManager collectionManager;
     public DBSaveManager(CollectionManager collectionManager) {
