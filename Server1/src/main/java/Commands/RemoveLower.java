@@ -35,7 +35,6 @@ public class RemoveLower extends Command{
     /**
      * удаляет элементы, которые меньше заданного элемента
      */
-    // реализовать данную команду
     @Override
     public Response execute(Request request) {
         boolean statusCommand;
